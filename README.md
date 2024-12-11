@@ -1,7 +1,33 @@
+<div style="text-align: center;" align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=%23E4405F&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Hi!+I+am+Arthur+Albuquerque!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
+
+#
+
+</div>
+<div style="text-align: center;" align="center">
+  <h3> About me!😉 </h3>
+  <p align="center"> Estudante de Ciência da Computação na Faculdade Anhanguera. Atualmente sou jovem aprendiz da UNIMED e estudo paralelamente. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.</p>
+
+
+<div style="text-align: center;" align="center">
+  <img align="right" alt="Arthur-imagem" height="150" width="150" src="https://github.com/user-attachments/assets/57e1945a-ac06-4de0-937b-950dac7a6eb1">
+</div>
+
+<br>
+ <h3 align="left">My Stack</h3>
+<div style="display: inline_block">
+  <img align="left" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="left" alt="Arthur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="left" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="left" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="left" alt="Arthur-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img  align="left" alt="Arthur-MySql" height="21" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
+<br>
+<br>
 
 #
 
@@ -14,25 +40,7 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArthurArlaxy&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFF&bg_color=000&text_color=FFF&border_radius=3&border_color=ff3170&count_private=true" alt="Most Used Languages">
   </a>
 
-#
-  
 </div>
-<div style="text-align: center;" align="center">
-  <h3> About me!😉 </h3>
-  <p align="center"> Estudante de Ciência da Computação na Faculdade Anhanguera. Atualmente sou jovem aprendiz da UNIMED e estudo paralelamente. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.</p>
-  <img align="right" alt="Arthur-imagem" height="150" width="150" src="https://github.com/user-attachments/assets/57e1945a-ac06-4de0-937b-950dac7a6eb1">
-</div>
-<br>
-<div style="display: inline_block">
-  <h3 align="left">My Stack ~</h3>
-  <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Arthur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Arthur-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img aling="center" alt="Arthur-MySql" height="21" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-</div>
-<br>
 
  ##
  
@@ -41,7 +49,6 @@
   <a href="https://www.instagram.com/arlaxy10/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:arthuraadeoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff3170?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arthur-albuquerque-a658b4266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff3170" target="_blank"></a> 
-  
 </div>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurArlaxy/ArthurArlaxy/output/github-contribution-grid-snake-dark.svg">
