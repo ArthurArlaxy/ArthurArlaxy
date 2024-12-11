@@ -1,5 +1,5 @@
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ffff&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Hi!+I+am+Arthur+Albuquerque!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=%23E4405F&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Hi!+I+am+Arthur+Albuquerque!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
@@ -8,10 +8,10 @@
 <div style="text-align: center;" align="center">
   <h3>  GitHub Stats💻</h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ArthurArlaxy&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FFF&text_color=FFF&border_radius=3&border_color=00ffff&icon_color=00ffff&theme=jolly" alt="GitHub stats">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ArthurArlaxy&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=ff3170&text_color=FFF&border_radius=3&border_color=ff3170&icon_color=ff3170&theme=jolly" alt="GitHub stats">
 
   <a href="https://github.com/ArthurArlaxy/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArthurArlaxy&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFF&bg_color=000&text_color=FFF&border_radius=3&border_color=00ffff&count_private=true" alt="Most Used Languages">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArthurArlaxy&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFF&bg_color=000&text_color=FFF&border_radius=3&border_color=ff3170&count_private=true" alt="Most Used Languages">
   </a>
 
 #
@@ -37,10 +37,10 @@
  ##
  
 <div> 
-  <a href="https://www.youtube.com/@arlaxy6946" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@arlaxy6946" target="_blank"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=ff3170" target="_blank"></a>
   <a href="https://www.instagram.com/arlaxy10/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:arthuraadeoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/arthur-albuquerque-a658b4266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:arthuraadeoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff3170?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/arthur-albuquerque-a658b4266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff3170" target="_blank"></a> 
   
 </div>
 <picture align="center">
