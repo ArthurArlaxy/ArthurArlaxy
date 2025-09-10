@@ -9,7 +9,7 @@
 </div>
 <div style="text-align: center;" align="center">
   <h3> About me!😉 </h3>
-  <p align="center"> Estudante de Ciência da Computação. Atualmente sou jovem aprendiz da UNIMED e estudo paralelamente. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.</p>
+  <p align="center"> Estudante de Ciência da Computação. Atualmente sou estagiário em suporte de TI na Bravante e estudo paralelamente programação. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.</p>
 </div>
 <img align="right" alt="Arthur-imagem" height="150" width="150" src="https://github.com/user-attachments/assets/57e1945a-ac06-4de0-937b-950dac7a6eb1">
 
