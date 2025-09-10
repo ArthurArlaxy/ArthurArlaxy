@@ -40,17 +40,7 @@
 
 #
 
-<h3 align="center">GitHub Stats 💻</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurArlaxy&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=ff3170&text_color=FFF&border_radius=3&border_color=ff3170&icon_color=ff3170" alt="GitHub stats" height="150"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurArlaxy&layout=compact&langs_count=4&title_color=FFF&bg_color=000&text_color=FFF&border_radius=3&border_color=ff3170" alt="Most Used Languages" height="150"/>
-</p>
-
-</div>
-
- ##
  
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurArlaxy/ArthurArlaxy/output/github-contribution-grid-snake-dark.svg">
