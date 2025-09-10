@@ -40,14 +40,13 @@
 
 #
 
-<div style="text-align: center;" align="center">
-  <h3>  GitHub Stats💻</h3>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ArthurArlaxy&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=ff3170&text_color=FFF&border_radius=3&border_color=ff3170&icon_color=ff3170&theme=jolly" alt="GitHub stats">
+<h3 align="center">GitHub Stats 💻</h3>
 
-  <a href="https://github.com/ArthurArlaxy/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArthurArlaxy&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFF&bg_color=000&text_color=FFF&border_radius=3&border_color=ff3170&count_private=false" alt="Most Used Languages">
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArthurArlaxy&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=ff3170&text_color=FFF&border_radius=3&border_color=ff3170&icon_color=ff3170" alt="GitHub stats" height="150"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurArlaxy&layout=compact&langs_count=4&title_color=FFF&bg_color=000&text_color=FFF&border_radius=3&border_color=ff3170" alt="Most Used Languages" height="150"/>
+</p>
 
 </div>
 
