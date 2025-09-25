@@ -17,7 +17,7 @@
 <br>
 
 
-<img align="right" padding-right="21px" alt="Arthur-imagem" height="225" width="225" src="https://iili.io/KlTX7EP.md.png" alt="KlTX7EP.md.png">
+<img align="right"  alt="Arthur-imagem" height="225" width="225" src="https://i.ibb.co/MytWJ4TT/Chat-GPT-Image-25-de-set-de-2025-07-02-05.png" >
 
 <div style="display: flex; justify-content: flex-start; ">
 
