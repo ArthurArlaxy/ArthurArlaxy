@@ -9,7 +9,7 @@
 </div>
 <div style="text-align: center;" align="center">
   <h3> About me!😉 </h3>
-  <p align="center"> Estudante de Ciência da Computação. Atualmente sou estagiário em suporte de TI na Bravante e estudo paralelamente programação. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.</p>
+  <p align="center"> Estudante de Ciência da Computação, Futuro Desenvolvedor de Software. Atualmente sou estagiário em suporte de TI na Bravante e estudo paralelamente programação. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.</p>
 </div>
 
 
