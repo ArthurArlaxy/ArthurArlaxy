@@ -25,7 +25,7 @@
   <h3> Connect with me!</h3>
   <a href="https://www.youtube.com/@arlaxy6946" target="_blank"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=ff3170" target="_blank"></a>
   <a href="https://www.instagram.com/arlaxy10/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:arthuramancio.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff3170?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:arthuramancio.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff3170?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/arthur-albuquerque-amancio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff3170" target="_blank"></a>
 </div>
 
